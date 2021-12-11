@@ -22,7 +22,7 @@
     <ProjectGuid>{C6CCEBC4-1ABA-4606-926F-817037A9B1FB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>AlternateConversationCamera</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

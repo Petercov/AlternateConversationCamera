@@ -16,8 +16,6 @@ Build instructions:
 5. Re-add the project references for both skse64 and skse64_common
    - For skse64, remove both common_vc14 and skse64_common references then add them back
    - For skse64_common, remove common_vc14 reference then add it back
-6. Change the build type for the skse64 project to static lib
-7. Remove the post-build event for the the skse64 project, both the command line and the description
-8. Change the solution configuration to Release mode, then build the project
-9. Check the \x64\Release folder, the project DLL is there
-10. Done
+6. Change the solution configuration to Release mode, then build the project
+7. Check the \x64\Release folder, the project DLL is there
+8. Done
